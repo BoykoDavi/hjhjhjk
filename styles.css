@@ -842,20 +842,20 @@ img{
 }
 
 
-@media (min-width: 1025px) and (max-width: 1280px) {
+@media (min-width: 1025px) and (max-width: 1328px) {
 /* @media (max-width: 1450px) { */
 
 .aaa{
     font-weight: 500;
 }
     img {
-        width: 1280px;
+        width: 1328px;
         height: 500px;
     }
 
 /* @media (max-width: 1450px) { */
     header {
-        width: 1280px;
+        width: 1328px;
     }
 
 
