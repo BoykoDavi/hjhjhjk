@@ -843,44 +843,44 @@ img{
 
 
 
-@media (max-width: 1200px) {
+@media (max-width: 1400px) {
     img {
          width: 1560px;
         height: 500px;
     }
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1400px) {
     header {
         width: 1560px;
     }
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1400px) {
     .nav1 {
         margin-left: -520px;
     }
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1400px) {
     .moto11, .moto1 {
         font-size: 23px;
     }
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1400px) {
     .text1 {
         margin-top: -100px;
     }
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1400px) {
     .h11 {
         font-size: 55px;
     }
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1400px) {
     .h33 {
         font-size: 19px;
     }
@@ -888,7 +888,7 @@ img{
 
 
 
-@media (max-width: 1350px) {
+@media (max-width: 1400px) {
     .btn1 {
         font-size: 18px;
         background-color: red;
@@ -903,7 +903,7 @@ img{
 
 
     
-@media (max-width: 1350px) {
+@media (max-width: 1400px) {
     .imgaa {
     width: 150px;
     height: 120px;
@@ -923,7 +923,7 @@ img{
     }
 }
 
-@media (max-width: 1350px){
+@media (max-width: 1400px){
     .texttt{
         margin-left: 110px;
         font-size: 17px;
