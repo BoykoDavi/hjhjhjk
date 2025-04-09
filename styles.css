@@ -845,14 +845,14 @@ img{
 
 @media (max-width: 1450px) {
     img {
-         width: 1560px;
+         width: 1450px;
         height: 500px;
     }
 }
 
 @media (max-width: 1450px) {
     header {
-        width: 1560px;
+        width: 1450px;
     }
 }
 
